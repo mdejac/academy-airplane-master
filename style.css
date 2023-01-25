@@ -1,0 +1,26 @@
+#space {
+    background-image: url("img/spaceStart.jpg");
+    width: 800px;
+    height: 900px;
+}
+.player {
+    position: absolute;
+    background-image: url("img/rocket.png");
+    background-size: cover;
+    width: 80px;
+    height: 100px;
+}
+.enemy {
+    position: absolute;
+    background-image: url("img/alien.png");
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+}
+.missle {
+    position: absolute;
+    background-image: url("img/missile.png");
+    background-size: cover;
+    width: 20px;
+    height: 40px;	
+}
